@@ -1,0 +1,9 @@
+authors = ["William Thompson <wthompson@uvic.ca"]
+name = "CoherentDifferentialImaging"
+uuid = "3332bd2a-5768-4e9c-9fc7-48261305b016"
+
+version = "0.0.0"
+
+[deps]
+
+[compat]
